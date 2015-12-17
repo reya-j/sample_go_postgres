@@ -2,8 +2,9 @@ language: go
 
 go:
   - 1.2
+  - 1.4
 
-#build_image: shippable/minv2:beta
+build_image: drydock/u12golpls:tip
 
 # Addons used by app
 addons:
