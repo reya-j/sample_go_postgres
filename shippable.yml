@@ -6,7 +6,7 @@ go:
   - 1.4
   - 1.5
 
-build_image: drydock/u14golpls:tip
+build_image: drydock/u14golall:tip
 
 # Addons used by app
 services:
